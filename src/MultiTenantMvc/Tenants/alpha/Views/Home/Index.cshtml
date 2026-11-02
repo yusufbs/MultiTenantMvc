@@ -1,0 +1,152 @@
+@model MultiTenantMvc.Models.HomeViewModel
+@{
+    ViewData["Title"] = "Tenant Alpha - Enterprise Portal (Custom View Override)";
+}
+
+<div class="row g-4">
+    <!-- Distinct Enterprise Alpha Hero Section -->
+    <div class="col-12">
+        <div class="card border-0 shadow-lg text-white rounded-4 p-4" 
+             style="background: linear-gradient(135deg, #4c1d95, #7c3aed, #a855f7);">
+            <div class="d-flex justify-content-between align-items-center flex-wrap gap-3">
+                <div>
+                    <span class="badge bg-warning text-dark fw-bold px-3 py-2 text-uppercase mb-2">
+                        ⭐ Custom Razor View Override (.cshtml) Active
+                    </span>
+                    <h1 class="display-6 fw-bold mb-1">🏢 Alpha Enterprise Customer Portal</h1>
+                    <p class="lead mb-0 opacity-90">
+                        This entire page layout is rendered exclusively from 
+                        <code>Tenants/alpha/Views/Home/Index.cshtml</code> via <code>TenantViewLocationExpander</code>.
+                    </p>
+                </div>
+                <div class="text-md-end bg-black bg-opacity-25 p-3 rounded-3">
+                    <div class="fw-bold fs-6">Resolution Channel:</div>
+                    <div class="badge bg-light text-dark">@Model.ResolutionSource</div>
+                    <div class="small mt-1 text-white-50">SLA Tier: 99.99% Platinum</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Diagnostic Comparison Table -->
+    <div class="col-12">
+        <div class="card shadow-sm border-0">
+            <div class="card-header bg-white py-3 border-bottom d-flex justify-content-between align-items-center">
+                <h5 class="card-title mb-0 fw-bold text-purple">Tenant Alpha Multi-Tenancy Diagnostic Summary</h5>
+                <span class="badge bg-primary">Tenant ID: alpha</span>
+            </div>
+            <div class="table-responsive">
+                <table class="table table-bordered align-middle mb-0">
+                    <thead class="table-light">
+                        <tr>
+                            <th style="width: 25%;">Customization Layer</th>
+                            <th style="width: 25%;">Execution State</th>
+                            <th>Active Implementation File & Details</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="table-success">
+                            <td><strong>1. C# Logic (.cs)</strong></td>
+                            <td><span class="badge bg-success">CUSTOM OVERRIDE</span></td>
+                            <td>
+                                <code>AlphaDiscountService.cs</code>
+                                <div class="small text-muted">@Model.Discount.CustomNotes</div>
+                            </td>
+                        </tr>
+                        <tr class="table-warning">
+                            <td><strong>2. Razor View (.cshtml)</strong></td>
+                            <td><span class="badge bg-warning text-dark">CUSTOM OVERRIDE</span></td>
+                            <td>
+                                <code>Tenants/alpha/Views/Home/Index.cshtml</code>
+                                <div class="small text-muted">Discovered by <code>TenantViewLocationExpander</code>; completely overrides base view.</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><strong>3. Client Script (.js)</strong></td>
+                            <td><span class="badge bg-secondary">BASE FALLBACK</span></td>
+                            <td>
+                                <code>/js/site.js</code>
+                                <div class="small text-muted">Alpha uses standard base script (no custom script file in <code>tenants/alpha/js/</code>).</div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <!-- Enterprise Custom C# Pricing Section -->
+    <div class="col-md-7">
+        <div class="card shadow-sm border-0 h-100">
+            <div class="card-header bg-white py-3 border-bottom d-flex justify-content-between align-items-center">
+                <h5 class="card-title mb-0 fw-bold text-dark">
+                    Enterprise Volume Calculator (Custom C# Backend)
+                </h5>
+                <span class="badge bg-info text-dark">Keyed DI Resolved</span>
+            </div>
+            <div class="card-body">
+                <p class="text-muted small">
+                    This calculation was processed by <code>AlphaDiscountService.cs</code>, providing higher volume discounts than the base site.
+                </p>
+
+                <form method="get" class="row g-2 mb-3">
+                    <input type="hidden" name="tenant" value="alpha" />
+                    <div class="col-sm-8">
+                        <label class="form-label small fw-semibold">Contract Volume Amount ($):</label>
+                        <input type="number" step="100" name="amount" value="@Model.Discount.OriginalAmount" class="form-control form-control-lg" />
+                    </div>
+                    <div class="col-sm-4 d-flex align-items-end">
+                        <button type="submit" class="btn btn-dark btn-lg w-100">Recalculate</button>
+                    </div>
+                </form>
+
+                <div class="row g-3">
+                    <div class="col-sm-6">
+                        <div class="p-3 bg-light rounded-3 border">
+                            <div class="text-muted small">Subtotal</div>
+                            <div class="fs-4 fw-bold">@Model.Discount.OriginalAmount.ToString("C")</div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="p-3 bg-light rounded-3 border">
+                            <div class="text-muted small">Enterprise Discount (@Model.Discount.DiscountPercentage%)</div>
+                            <div class="fs-4 fw-bold text-success">-@Model.Discount.DiscountAmount.ToString("C")</div>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="p-3 bg-primary bg-opacity-10 border border-primary rounded-3 text-primary d-flex justify-content-between align-items-center">
+                            <div>
+                                <div class="small fw-semibold">Total Enterprise Invoice:</div>
+                                <div class="display-6 fw-bold">@Model.Discount.FinalAmount.ToString("C")</div>
+                            </div>
+                            <span class="badge bg-primary fs-6">@Model.Discount.TierName</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Client Script Status Card -->
+    <div class="col-md-5">
+        <div class="card shadow-sm border-0 h-100">
+            <div class="card-header bg-white py-3 border-bottom">
+                <h5 class="card-title mb-0 fw-bold">Client JavaScript Runtime</h5>
+            </div>
+            <div class="card-body">
+                <p class="text-muted small">
+                    Shows that Alpha successfully runs the base fallback JavaScript (<code>/js/site.js</code>):
+                </p>
+
+                <div id="tenant-js-output" class="p-3 border rounded-3 bg-light">
+                    <div class="spinner-border spinner-border-sm text-secondary" role="status"></div>
+                    <span class="text-muted ms-2">Loading script...</span>
+                </div>
+
+                <div class="alert alert-info mt-3 small mb-0">
+                    <strong>Note:</strong> Tenant Alpha intentionally has NO custom JavaScript file in <code>wwwroot/tenants/alpha/js/site.js</code>, so <code>&lt;tenant-script&gt;</code> cleanly falls back to <code>/js/site.js</code>.
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

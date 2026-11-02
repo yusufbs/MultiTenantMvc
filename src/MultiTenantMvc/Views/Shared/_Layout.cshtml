@@ -1,0 +1,108 @@
+@inject MultiTenantMvc.Infrastructure.Multitenancy.ITenantContextAccessor TenantAccessor
+@inject MultiTenantMvc.Infrastructure.Multitenancy.ITenantStore TenantStore
+
+@{
+    var currentTenant = TenantAccessor.TenantContext?.CurrentTenant ?? TenantStore.GetDefaultTenant();
+    var allTenants = TenantStore.GetAllTenants();
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - @currentTenant.Name</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <style>
+        :root {
+            --tenant-primary: @currentTenant.PrimaryColor;
+            --tenant-secondary: @currentTenant.SecondaryColor;
+        }
+        .tenant-navbar {
+            background: linear-gradient(135deg, var(--tenant-primary), var(--tenant-secondary)) !important;
+        }
+        .tenant-btn-active {
+            border: 2px solid #ffffff !important;
+            font-weight: 700 !important;
+            box-shadow: 0 0 10px rgba(255,255,255,0.4);
+        }
+        .tenant-pill {
+            background-color: rgba(255,255,255,0.2);
+            border-radius: 9999px;
+            padding: 4px 12px;
+            font-size: 0.85rem;
+            color: #fff;
+        }
+    </style>
+</head>
+<body class="bg-light">
+    <!-- Quick Tenant Switcher Bar -->
+    <div class="bg-dark text-white py-2 px-3 border-bottom border-secondary">
+        <div class="container d-flex flex-wrap align-items-center justify-content-between gap-2">
+            <div class="d-flex align-items-center gap-2">
+                <span class="badge bg-secondary text-uppercase">Multi-Tenant Switcher</span>
+                <span class="small text-white-50">Click a tenant to simulate different tenant requests:</span>
+            </div>
+            <div class="btn-group btn-group-sm" role="group">
+                @foreach (var t in allTenants)
+                {
+                    var isSelected = string.Equals(t.Id, currentTenant.Id, StringComparison.OrdinalIgnoreCase);
+                    <a href="?tenant=@t.Id" 
+                       class="btn @(isSelected ? "btn-primary tenant-btn-active" : "btn-outline-light")">
+                        @(t.IsBase ? "🌐 " : "🏢 ") @t.Id.ToUpper()
+                        @(isSelected ? " (Active)" : "")
+                    </a>
+                }
+            </div>
+        </div>
+    </div>
+
+    <!-- Tenant Header / Navbar -->
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark tenant-navbar shadow-sm mb-4">
+            <div class="container">
+                <a class="navbar-brand fw-bold d-flex align-items-center gap-2" asp-controller="Home" asp-action="Index">
+                    <span>@currentTenant.Name</span>
+                </a>
+                <span class="tenant-pill d-none d-md-inline">@currentTenant.BadgeText</span>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navContent">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navContent">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link text-white fw-semibold" asp-controller="Home" asp-action="Index">Dashboard</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white-50" asp-controller="Home" asp-action="Privacy">Tenant Privacy</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-4">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top py-3 text-muted bg-white mt-auto">
+        <div class="container d-flex justify-content-between align-items-center flex-wrap">
+            <span>&copy; 2026 - MultiTenantMvc (.NET 10) | Active Tenant: <strong>@currentTenant.Id</strong></span>
+            <span class="text-secondary small">Architecture: ASP.NET Core MVC Multi-Tenancy</span>
+        </div>
+    </footer>
+
+    <!-- Core Scripts -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- Tenant-Aware Dynamic Script (Demonstrating .js Overrides) -->
+    <!-- TenantScriptTagHelper resolves /tenants/{tenant}/js/site.js if present, or /js/site.js as fallback -->
+    <tenant-script src="site.js"></tenant-script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

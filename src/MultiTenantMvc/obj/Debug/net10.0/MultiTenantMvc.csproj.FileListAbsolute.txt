@@ -1,0 +1,223 @@
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.lib.module.js
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.BrowserTools.js
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.BrowserTools.Config.js
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\dotnet-watch\browser-tools-key.public.json
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\dotnet-watch\browser-tools-key.private.json
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\MultiTenantMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\MultiTenantMvc.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\MultiTenantMvc.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\MultiTenantMvc.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\MultiTenantMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\MultiTenantMvc.RazorAssemblyInfo.cache
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\MultiTenantMvc.RazorAssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\MultiTenantMvc.sourcelink.json
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\bin\Debug\net10.0\appsettings.json
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\bin\Debug\net10.0\MultiTenantMvc.staticwebassets.runtime.json
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\bin\Debug\net10.0\MultiTenantMvc.staticwebassets.endpoints.json
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\bin\Debug\net10.0\MultiTenantMvc.exe
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\bin\Debug\net10.0\MultiTenantMvc.deps.json
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\bin\Debug\net10.0\MultiTenantMvc.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\bin\Debug\net10.0\MultiTenantMvc.runtimeconfig.dev.json
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\bin\Debug\net10.0\MultiTenantMvc.dll
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\bin\Debug\net10.0\MultiTenantMvc.pdb
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\jsmodules\jsmodules.build.manifest.json
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\scopedcss\scopedcss.cache
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\scopedcss\bundle\MultiTenantMvc.styles.css
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\scopedcss\projectbundle\MultiTenantMvc.bundle.scp.css
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\oe58zzcu9u-{0}-s9y91u5nkn-s9y91u5nkn.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\b6dtamp8vb-{0}-fql6ad7oki-fql6ad7oki.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\44sk6m9n0e-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\gocxf37sj5-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\faq6kqkulh-{0}-dqjfz8ag4y-dqjfz8ag4y.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\jzbrqtapte-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\kbv3xcjmu3-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\op2cf7llkk-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\55xvri06m5-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\g0uq05amu3-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\c2kcqfvowm-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\5lhxbfffrl-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\g2w2qc4k79-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\9xpimv8t2h-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\vdm1acj1y4-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\7f4erporm8-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\xbex67qv9f-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\mk3ajbzv7m-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\tmndnsh23d-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\8umy72mxi8-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\gnhnocvnzw-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\8yumpuj04g-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\y0cbui3rz0-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\bqdwu4oe7a-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\qym4xl6axo-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\s84amesc9l-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\4d9ef26vzh-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\lba8jwz2k2-{0}-06098lyss8-06098lyss8.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\f8g31hnil8-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\3h2y989b55-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\crr05ajunc-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\4qcjfno6bh-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\k9f1zg233c-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\xg35vbdev9-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\dh12wkh59i-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\t2uqdgzyf9-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\pwucalazah-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\daqfg9u9kc-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\wi3nk0m9bs-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\hsceit8jwc-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\ic6njy9das-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\mhey68834g-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\fqoslki8ni-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\aojlx180px-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\i8v95rsscs-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\su2atsggkn-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\td3oq1g2ty-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\bugeisaxsn-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\pn707hzorr-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\0scsrcxo8q-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\qzdycpqvaa-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\kadqhqx9na-{0}-356vix0kms-356vix0kms.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\w1a8sjllh5-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\qypittmt1c-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\c02t8xaxnc-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\rcgtkuc2fg-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\30xla1jue0-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\fw159e9ma4-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\twlpmyefsq-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\4qb30xwxfm-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\rtlhlky1g0-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\yiy7hys95s-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\5a1gommjjx-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\vart2ie809-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\er0mxfhlw3-{0}-rvla0rul64-rvla0rul64.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\kw41kud8w6-{0}-lvkpp2i49p-lvkpp2i49p.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\8xar4egl6y-{0}-scyj3pnqhf-scyj3pnqhf.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\2f3yy8utgn-{0}-3bxjvd5iiu-3bxjvd5iiu.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\compressed\bohlgq1hpn-{0}-3bxjvd5iiu-3bxjvd5iiu.gz
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\MultiTenantMvc.dll
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\refint\MultiTenantMvc.dll
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\MultiTenantMvc.pdb
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\MultiTenantMvc.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\ref\MultiTenantMvc.dll
+C:\Users\yusuf\OneDrive\Desktop\Prompts\MultiTenantMvc (.NET 10)\obj\Debug\net10.0\MultiTen.06393A48.Up2Date
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\bin\Debug\net10.0\appsettings.Development.json
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\bin\Debug\net10.0\appsettings.json
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\bin\Debug\net10.0\MultiTenantMvc.staticwebassets.endpoints.json
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\bin\Debug\net10.0\MultiTenantMvc.staticwebassets.runtime.json
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\bin\Debug\net10.0\MultiTenantMvc.exe
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\bin\Debug\net10.0\MultiTenantMvc.deps.json
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\bin\Debug\net10.0\MultiTenantMvc.runtimeconfig.json
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\bin\Debug\net10.0\MultiTenantMvc.runtimeconfig.dev.json
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\bin\Debug\net10.0\MultiTenantMvc.dll
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\bin\Debug\net10.0\MultiTenantMvc.pdb
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.lib.module.js
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.BrowserTools.js
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.BrowserTools.Config.js
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\dotnet-watch\browser-tools-key.public.json
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\dotnet-watch\browser-tools-key.private.json
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\MultiTenantMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\MultiTenantMvc.AssemblyInfoInputs.cache
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\MultiTenantMvc.AssemblyInfo.cs
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\MultiTenantMvc.csproj.CoreCompileInputs.cache
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\MultiTenantMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\MultiTenantMvc.RazorAssemblyInfo.cache
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\MultiTenantMvc.RazorAssemblyInfo.cs
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\jsmodules\jsmodules.build.manifest.json
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\scopedcss\scopedcss.cache
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\scopedcss\bundle\MultiTenantMvc.styles.css
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\scopedcss\projectbundle\MultiTenantMvc.bundle.scp.css
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\oe58zzcu9u-{0}-s9y91u5nkn-s9y91u5nkn.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\b6dtamp8vb-{0}-fql6ad7oki-fql6ad7oki.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\44sk6m9n0e-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\gocxf37sj5-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\faq6kqkulh-{0}-dqjfz8ag4y-dqjfz8ag4y.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\jzbrqtapte-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\kbv3xcjmu3-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\op2cf7llkk-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\55xvri06m5-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\g0uq05amu3-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\c2kcqfvowm-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\5lhxbfffrl-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\g2w2qc4k79-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\9xpimv8t2h-{0}-ub07r2b239-ub07r2b239.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\vdm1acj1y4-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\7f4erporm8-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\xbex67qv9f-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\mk3ajbzv7m-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\tmndnsh23d-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\8umy72mxi8-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\gnhnocvnzw-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\8yumpuj04g-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\y0cbui3rz0-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\bqdwu4oe7a-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\qym4xl6axo-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\s84amesc9l-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\4d9ef26vzh-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\lba8jwz2k2-{0}-06098lyss8-06098lyss8.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\f8g31hnil8-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\3h2y989b55-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\crr05ajunc-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\4qcjfno6bh-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\k9f1zg233c-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\xg35vbdev9-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\dh12wkh59i-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\t2uqdgzyf9-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\pwucalazah-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\daqfg9u9kc-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\wi3nk0m9bs-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\hsceit8jwc-{0}-493y06b0oq-493y06b0oq.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\ic6njy9das-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\mhey68834g-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\fqoslki8ni-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\aojlx180px-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\i8v95rsscs-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\su2atsggkn-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\td3oq1g2ty-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\bugeisaxsn-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\pn707hzorr-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\0scsrcxo8q-{0}-47otxtyo56-47otxtyo56.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\qzdycpqvaa-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\kadqhqx9na-{0}-356vix0kms-356vix0kms.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\w1a8sjllh5-{0}-83jwlth58m-83jwlth58m.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\qypittmt1c-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\c02t8xaxnc-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\rcgtkuc2fg-{0}-ag7o75518u-ag7o75518u.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\30xla1jue0-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\fw159e9ma4-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\twlpmyefsq-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\4qb30xwxfm-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\rtlhlky1g0-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\yiy7hys95s-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\5a1gommjjx-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\vart2ie809-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\er0mxfhlw3-{0}-rvla0rul64-rvla0rul64.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\kw41kud8w6-{0}-lvkpp2i49p-lvkpp2i49p.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\8xar4egl6y-{0}-scyj3pnqhf-scyj3pnqhf.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\2f3yy8utgn-{0}-3bxjvd5iiu-3bxjvd5iiu.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\compressed\bohlgq1hpn-{0}-3bxjvd5iiu-3bxjvd5iiu.gz
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\staticwebassets.build.json
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\staticwebassets.development.json
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\swae.build.ex.cache
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\MultiTenantMvc.dll
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\refint\MultiTenantMvc.dll
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\MultiTenantMvc.pdb
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\MultiTenantMvc.genruntimeconfig.cache
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\ref\MultiTenantMvc.dll
+C:\Projects\MultiTenantMvc\src\MultiTenantMvc\obj\Debug\net10.0\MultiTen.06393A48.Up2Date

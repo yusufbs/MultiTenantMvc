@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kt/2hHQ+5W0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yusuf\\OneDrive\\Desktop\\Prompts\\MultiTenantMvc.Tests\\MultiTenantMvc.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yusuf\\.nuget\\packages\\xunit\\2.9.3\\xunit.2.9.3.nupkg.sha512",
+    "C:\\Users\\yusuf\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\yusuf\\.nuget\\packages\\xunit.analyzers\\1.18.0\\xunit.analyzers.1.18.0.nupkg.sha512",
+    "C:\\Users\\yusuf\\.nuget\\packages\\xunit.assert\\2.9.3\\xunit.assert.2.9.3.nupkg.sha512",
+    "C:\\Users\\yusuf\\.nuget\\packages\\xunit.core\\2.9.3\\xunit.core.2.9.3.nupkg.sha512",
+    "C:\\Users\\yusuf\\.nuget\\packages\\xunit.extensibility.core\\2.9.3\\xunit.extensibility.core.2.9.3.nupkg.sha512",
+    "C:\\Users\\yusuf\\.nuget\\packages\\xunit.extensibility.execution\\2.9.3\\xunit.extensibility.execution.2.9.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\yusuf\\OneDrive\\Desktop\\Prompts\\MultiTenantMvc.Tests\\MultiTenantMvc.Tests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\yusuf\\OneDrive\\Desktop\\Prompts\\MultiTenantMvc.Tests\\MultiTenantMvc.Tests.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.optimizely.com/v3/index.json.",
+      "projectPath": "C:\\Users\\yusuf\\OneDrive\\Desktop\\Prompts\\MultiTenantMvc.Tests\\MultiTenantMvc.Tests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\yusuf\\OneDrive\\Desktop\\Prompts\\MultiTenantMvc.Tests\\MultiTenantMvc.Tests.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
